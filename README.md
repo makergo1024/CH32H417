@@ -1,9 +1,9 @@
-﻿# [CH32H417](https://github.com/SoCXin/CH32H417)
+# CH32H417
 
-* [WCH](http://www.wch.cn/)：[RISC-V](https://github.com/SoCXin/RISC-V)
-* [L3R3](https://github.com/SoCXin/Level): 400+144 MHz 
+* [WCH](http://www.wch.cn/)：RISC-V
+* L3R3: 400+144 MHz
 
-## [简介](https://github.com/SoCXin/CH32H417/wiki)
+## 简介
 
 [CH32H417](https://www.wch.cn/products/CH32H417.html) 是基于青稞RISC-V5F和RISC-V3F双内核设计的互联型通用微控制器。CH32H417集成了USB 3.2 Gen1控制器和收发器、百兆以太网MAC及PHY、SerDes高速隔离收发器、Type-C/PD控制器及PHY，提供SD/EMMC控制器、500MBytes通用高速接口UHSIF、DVP数字图像接口、单线协议主接口SWPMI、可编程协议I/O控制器PIOC、灵活存储控制器FMC、DFSDM、LTDC、GPHA、DMA控制器、多组定时器、8组串口、I3C、4组I2C、2组QSPI、4组SPI，2组I2S、3组CAN等外设资源，内置了5M采样率双12位ADC单元、20M采样率10位高速HSADC单元、16路Touchkey、双DAC单元、3组运放OPA、电压比较器CMP等模拟资源，支持10M/100M以太网通讯，支持USB 2.0和USB 3.0，支持USB Host主机和USB Device设备功能、Type-C和PDUSB快充功能，支持SerDes高速隔离及远距离传输，支持双内核分工提升网络协议处理效率和通讯响应速度。
 
@@ -57,13 +57,14 @@ gantt
 * 支持单线（默认）和双线两种调试模式
 * 封装形式：QFN128、QFN88、QFN68、QFN60X6
 
-## [资源收录](https://github.com/SoCXin)
+## 资源收录
 
 * [参考资源](src/)
 * [参考文档](docs/)
 * [参考工程](project/)
 * [mounriver开发环境](http://www.mounriver.com/download)
 
-## [选型建议](https://github.com/SoCXin)
+## 选型建议
 
-[CH32H417](https://github.com/SoCXin/CH32H417) 
+CH32H417
+
